@@ -1,2 +1,2 @@
-# GES
-Technical Report: GES - High-Performance Graph Processing Engine and Service (SIGMOD 2025)
+# GES Technical Report 
+This repository contains the technical report for [GES: High-Performance Graph Processing Engine and Service in Huawei](https://doi.org/10.1145/3722212.3724439) presented at SIGMOD 2025. It details the design, implementation, and performance evaluation of Graph Engine Service (GES), an advanced graph database management system characterized by its composable architecture and highly factorized query executor developed by Huawei.
